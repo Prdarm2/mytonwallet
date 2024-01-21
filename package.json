@@ -169,7 +169,7 @@
   },
   "dependencies": {
     "@capacitor-mlkit/barcode-scanning": "^5.3.0",
-    "@capacitor/android": "^5.3.0",
+    "@capacitor/android": "^5.6.0",
     "@capacitor/app": "^5.0.6",
     "@capacitor/core": "^5.5.1",
     "@capacitor/dialog": "^5.0.6",
